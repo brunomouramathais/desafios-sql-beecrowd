@@ -1,7 +1,7 @@
 <div>
  <a href="https://judge.beecrowd.com/pt/problems/index/9"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" height="100"></a>
 </div>
-[Link para o Portal Beecrowd](https://www.beecrowd.com.br/judge/)
+
 
 # 📚 Beecrowd SQL Challenges
 
@@ -48,8 +48,9 @@ Com isso, busco fortalecer minha base teórica e prática, utilizando desafios d
 ## 📋 Lista de Problemas Resolvidos
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/caminho-da-imagem.png" alt="Lista de Problemas Resolvidos Beecrowd" width="700"/>
+  <img src="https://raw.githubusercontent.com/brunomouramathais/desafios-sql-beecrowd/main/Desafio%20beecrowd/Lista/Desafios%20Feitos.jpg" alt="Lista de Problemas Resolvidos Beecrowd" width="450"/>
 </p>
+
 
 ## 🧩 Estrutura do Repositório
 
