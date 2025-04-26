@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://judge.beecrowd.com/pt/problems/index/9">
-    <img src="https://judge.beecrowd.com/pt" alt="Beecrowd Logo" width="250"/>
-  </a>
-</p>
+<div>
+ <a href="https://judge.beecrowd.com/pt/problems/index/9"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" height="100"></a>
+</div>
 
 # 📚 Beecrowd SQL Challenges
 
