@@ -1,6 +1,7 @@
 <div>
  <a href="https://judge.beecrowd.com/pt/problems/index/9"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" height="100"></a>
 </div>
+[Link para o Desafio Beecrowd](https://judge.beecrowd.com/pt/problems/index/9)
 
 # 📚 Beecrowd SQL Challenges
 
@@ -29,6 +30,26 @@ Com isso, busco fortalecer minha base teórica e prática, utilizando desafios d
 - **DBeaver** (Editor de consultas)
 
 ---
+## 📋 Organização dos Problemas
+
+- Problemas em ordem numérica crescente (ex: 2602, 2603, 2604...).
+- Comentados para fácil localização dentro do arquivo.
+- Padronização para manter a leitura simples e objetiva.
+
+---
+
+## 🎯 Objetivos
+
+- Consolidar a prática de **SQL**.
+- Aprender diferentes abordagens de resolução para problemas reais.
+- Criar uma base de consultas para futuras referências e estudos.
+- Evoluir gradualmente do nível básico ao avançado em bancos de dados.
+
+## 📋 Lista de Problemas Resolvidos
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/caminho-da-imagem.png" alt="Lista de Problemas Resolvidos Beecrowd" width="700"/>
+</p>
 
 ## 🧩 Estrutura do Repositório
 
