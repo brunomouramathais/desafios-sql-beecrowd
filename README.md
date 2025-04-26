@@ -53,8 +53,8 @@ Com isso, busco fortalecer minha base teórica e prática, utilizando desafios d
 
 
 ## 🧩 Estrutura do Repositório
-desafios-sql-beecrowd/
-├── Beecrowd SQL Challenges.sql  # Arquivo único com todas as soluções
-├── Lista/
-│   └── Problemas_Resolvidos.md  # Sua lista de progresso
-└── README.md                    # Este arquivo
+- desafios-sql-beecrowd/
+  - Beecrowd SQL Challenges.sql
+  - Lista/
+    - Problemas_Resolvidos.md
+  - README.md
