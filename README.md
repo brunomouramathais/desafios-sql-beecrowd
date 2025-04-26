@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.beecrowd.com.br/">
-    <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/caminho-da-imagem.png" alt="Beecrowd Logo" width="250"/>
+  <a href="https://judge.beecrowd.com/pt/problems/index/9">
+    <img src="https://judge.beecrowd.com/pt" alt="Beecrowd Logo" width="250"/>
   </a>
 </p>
 
