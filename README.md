@@ -1,7 +1,7 @@
 <div>
  <a href="https://judge.beecrowd.com/pt/problems/index/9"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" height="100"></a>
 </div>
-[Link para o Desafio Beecrowd](https://judge.beecrowd.com/pt/problems/index/9)
+[Link para o Portal Beecrowd](https://www.beecrowd.com.br/judge/)
 
 # 📚 Beecrowd SQL Challenges
 
